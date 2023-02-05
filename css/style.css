@@ -1848,3 +1848,23 @@ main h2, main h3 {
   font-family: "Sacramento", Arial, serif;
   font-size: 3em;
 }
+
+#fh5co-header {
+  background-image:url('../images/marbi_bg_01.JPG'); 
+  background-attachment: fixed; 
+  background-position: -600px 0;
+}
+
+@media screen and (min-width: 400px) {
+  #fh5co-header {
+    background-position: -500px 0;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  #fh5co-header {
+    background-position: left;
+    background-attachment: initial;
+  }
+}
