@@ -1841,3 +1841,10 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+main h2, main h3 {
+  color: #F14E95;
+  font-family: "Sacramento", Arial, serif;
+  font-size: 3em;
+}
